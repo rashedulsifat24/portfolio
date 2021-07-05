@@ -41,7 +41,7 @@ h1{
     margin: 0;
 }
 .second{
-    background-image: url(/images/dream-bg.png);
+    background-image: url(../images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
 }
