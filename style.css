@@ -13,10 +13,11 @@ h1{
 section{
 
     display: flex;
+    margin-top:100px;
 }
 .half{
     width: 50%;
-    padding-left: 2%;
+    padding-right: 2%;
 }
 .half img{
     width: 80%;
@@ -31,9 +32,14 @@ section{
     padding: 10px 30px;
     border-radius: 5px;
 }
-.top{
+.first{
 
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
     margin: 0;
+}
+.second{
+    background-image: url(/images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
